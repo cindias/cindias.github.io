@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink:
-subtitle: [Affliations](https://opr.princeton.edu/people/xueqing-wang)
+permalink:https://opr.princeton.edu/people/xueqing-wang
+subtitle:
 
 profile: 
   align: right
