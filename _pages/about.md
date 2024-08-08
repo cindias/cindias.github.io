@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink:https://opr.princeton.edu/people/xueqing-wang
+permalink:
 subtitle:
 
 profile: 
