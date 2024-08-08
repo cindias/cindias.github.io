@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink:
-subtitle:
+subtitle: <a href='https://opr.princeton.edu/people/xueqing-wang'>Affliation</a>
 
 profile: 
   align: right
