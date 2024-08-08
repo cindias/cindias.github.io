@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink:
-subtitle: <a href='[https://opr.princeton.edu/people/xueqing-wang]'>Aff</a>
+subtitle: <a href='https://opr.princeton.edu/people/xueqing-wang'>Aff</a>
 
 
 profile: 
