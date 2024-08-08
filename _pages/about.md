@@ -2,9 +2,9 @@
 layout: about
 title: about
 permalink:
-subtitle:
+subtitle: [Affliations](https://opr.princeton.edu/people/xueqing-wang)
 
-profile: Xueqing Wang
+profile: 
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
