@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://opr.princeton.edu/people/xueqing-wang'>Affiliations</a>.
+subtitle: [Afflications](https://opr.princeton.edu/people/xueqing-wang)
 
 profile: Xueqing Wang
   align: right
