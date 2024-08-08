@@ -19,5 +19,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD candidate in Demography and Social Policy, affiliated with the Office of Population Research, and School of Public and International Affairs, Princeton University. I study the intersection of family change and demographic processes. Specifically, I am interested in how mortality and migration affect the formation and dissolution of families in the context of population aging. In my spare time, I write about demographics in [China](https://scientificamerican.com/article/chinas-population-could-shrink-to-half-by-2100/).
+Hello! I am a Ph.D. candidate at the Office of Population Research, Princeton University. I study the intersection of family change and demographic processes. Specifically, I am interested in how mortality and migration affect the formation and dissolution of families in aging populations. In my spare time, I write about demographics in [China](https://scientificamerican.com/article/chinas-population-could-shrink-to-half-by-2100/). I am also affiliated with the [School of Public and International Affairs] (https://jdp.princeton.edu/people/xueqing-zoey-wang).
 
