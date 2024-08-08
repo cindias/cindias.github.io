@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: [Afflications](https://opr.princeton.edu/people/xueqing-wang)
+permalink: https://opr.princeton.edu/people/xueqing-wang
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile: Xueqing Wang
   align: right
