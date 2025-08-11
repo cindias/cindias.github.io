@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://scholar.google.com/citations?user=3BAtm-wAAAAJ&hl=en'>Google</a>. <a href='https://orcid.org/0000-0002-1749-0769'>ORCID</a>. 
+subtitle: <a href='https://scholar.google.com/citations?user=3BAtm-wAAAAJ&hl=en'>Google Scholar</a>. <a href='https://orcid.org/0000-0002-1749-0769'>ORCID</a>. 
 
 
 profile: 
@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! I am a demographer studying family, health, and aging. I completed a Ph.D. at the Office of Population Research, Princeton University. My research explores three related aspects: (1) how mortality and migration influence the formation and dissolution of families across the life course, (2) the social stratification of emotions in aging populations, and (3) how data quality affects our understanding of social inequality in the context of extended longevity. I also write about demographics in [China](https://scientificamerican.com/article/chinas-population-could-shrink-to-half-by-2100/).
+Hello! I am a demographer studying the intersection of family, health, and aging. I completed my Ph.D. in Demography and Social Policy at the Office of Population Research, Princeton University, and am currently a Postdoctoral Research Fellow at the University of Michigan, Ann Arbor, working on NIA-funded projects examining family availability and ADRD care trajectories.
+My research explores how demographic transformations—declining fertility, shifting marriage patterns, and increasing geographic mobility—reshape family support networks and healthy aging trajectories across diverse populations. Using demographic methods like Sullivan's healthy life expectancy and multistate life tables, I examine three core questions: How do demographic changes transform family arrangements at older ages? What are the implications for inequalities in well-being, with emphasis on cognitive impairments including ADRD and social-emotional outcomes like loneliness? And how can we address measurement challenges in longitudinal aging surveys to accurately project future care needs?
 
-I am also affiliated with the [School of Public and International Affairs](https://jdp.princeton.edu/people/xueqing-zoey-wang).
+My work has appeared in Demography, Journal of Gerontology: Social Sciences, Age and Ageing, among others. I also write about demographic trends for public audiences, including[Scientific American](https://scientificamerican.com/article/chinas-population-could-shrink-to-half-by-2100/).
+
 
