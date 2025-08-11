@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://opr.princeton.edu/people/xueqing-wang'>OPR</a>. <a href='https://jdp.princeton.edu/people/xueqing-zoey-wang'>JDP</a>. 
+subtitle: <a href='https://scholar.google.com/citations?user=3BAtm-wAAAAJ&hl=en'>Google</a>. <a href='https://orcid.org/0000-0002-1749-0769'>ORCID</a>. 
 
 
 profile: 
