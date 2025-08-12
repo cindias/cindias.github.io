@@ -22,6 +22,6 @@ Hello! I am a demographer studying the intersection of family, health, and aging
 
 My research explores how demographic shifts—declining fertility, changing marriage patterns, and increased geographic mobility—are reshaping family support networks and healthy aging across diverse populations. I use demographic methods like Sullivan's healthy life expectancy and multistate life tables to examine three key questions: How are demographic changes transforming family arrangements in later life? What do these changes mean for health inequalities, particularly regarding cognitive decline and social well-being? And how can we improve measurement approaches in aging studies to better understand health disparities and forecast future care needs?
 
-My work has been published in *Demography*, *Journal of Gerontology: Social Sciences*, *Age and Ageing*, and other journals, with coverage in the *South China Morning Post*. I also write about demographic trends for broader audiences, including[Scientific American](https://scientificamerican.com/article/chinas-population-could-shrink-to-half-by-2100/).
+My work has been published in *Demography*, *Journal of Gerontology: Social Sciences*, *Age and Ageing*, and other journals, with coverage in the *South China Morning Post*. I also write about demographic trends for broader audiences, including [Scientific American](https://scientificamerican.com/article/chinas-population-could-shrink-to-half-by-2100/).
 
 
