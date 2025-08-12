@@ -9,3 +9,4 @@ description: You can download my CV here.
 toc:
   sidebar: left
 ---
+You can download my CV [here](/assets/pdf/Wang_CV_08.pdf).
