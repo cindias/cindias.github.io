@@ -13,9 +13,9 @@ profile:
     <p>Postdoctoral Research Fellow</p>
     <p>University of Michigan</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hello! I am a demographer studying the intersection of family, health, and aging. I completed my Ph.D. in Demography and Social Policy at Princeton University, Office of Population Research, and am currently a Postdoctoral Research Fellow at the University of Michigan, working on NIA-funded projects examining family availability and ADRD care trajectories.
