@@ -18,7 +18,7 @@ China’s demographic history—from the one-child policy to recent pronatalist 
 
 Ultimately, population size alone does not determine societal outcomes. With careful management and adjustment, China’s population decline could be navigated in a way that maintains living standards, meets care needs for older adults, and informs demographic strategies for other countries facing similar trends.
 
-You can read the full article [here](https://scientificamerican.com/article/chinas-population-could-shrink-to-half-by-2100/).
+You can read the full article [here](https://scientificamerican.com/article/chinas-population-could-shrink-to-half-by-2100/). An related op-ed essay [here](https://cccw.hku.hk/publications/op-eds/a-shrinking-population-could-be-a-demographic-opportunity-for-china/).
 
 ---
 
