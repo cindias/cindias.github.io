@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='https://scholar.google.com/citations?user=3BAtm-wAAAAJ&hl=en'>GoogleScholar</a>. <a href='https://orcid.org/0000-0002-1749-0769'>ORCID</a>.
+
 profile:
   align: right
   image: prof_pic.jpg
@@ -10,6 +11,7 @@ profile:
   more_info: >
     <p>Postdoctoral Research Fellow</p>
     <p>University of Michigan</p>
+    
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
