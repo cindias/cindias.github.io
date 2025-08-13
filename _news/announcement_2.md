@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Essay on Scientific American: Is China’s future population drop a crisis or an opportunity?
+title: Our Essay on _Scientific American_
 date: 2024-5-01 16:11:00-0400
 inline: false
 related_posts: false
