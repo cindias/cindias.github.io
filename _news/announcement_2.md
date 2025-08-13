@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Essay on _Scientific American_
+title: Our Essay on Scientific American
 date: 2024-5-01 16:11:00-0400
 inline: false
 related_posts: false
