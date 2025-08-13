@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: Wang_CV_08.pdf
-description: You can download my CV here.
+description:
 toc:
   sidebar: left
 ---
