@@ -6,7 +6,6 @@ description: A collection of my photographs with some demographic perspectives I
 nav: true
 nav_order: 5
 ---
-
 <div class="row mt-3">
   <div class="col-sm-6 mb-4">
     <img src="/assets/img/bean.jpg" class="img-fluid rounded" alt="Cloud Gate at the Millennium Park">
@@ -34,6 +33,14 @@ nav_order: 5
     <small class="text-muted"><i class="fas fa-map-marker-alt"></i> Tokyo, Japan • Jul 2025</small>
     <small class="text-muted d-block"><i class="fas fa-camera"></i> iPhone 13</small>
   </div>
+
+  <div class="col-sm-6 mb-4">
+    <img src="/assets/img/alaska.jpg" class="img-fluid rounded" alt="Aurora Borealis dancing over Cold Foot, Alaska">
+    <h5 class="mt-3">Sacred Lights and Demographic Memory</h5>
+    <p>I visited the Arctic area called Cold Foot, Alaska and captured this stunning dancing aurora. For Arctic communities that faced devastating infant and child mortality rates—where harsh winters, limited medical care, and difficult births claimed so many young lives—the aurora became something far more sacred than a natural phenomenon. Indigenous peoples believed these shimmering lights were the spirits of children who died at birth, forever playing together in the "highest level of heaven"—a joyous place "where there is no snow or storm, always bright, and there are many easily caught animals."</p>
+    <small class="text-muted"><i class="fas fa-map-marker-alt"></i> Cold Foot, AK • [Date]</small>
+    <small class="text-muted d-block"><i class="fas fa-camera"></i> [Camera details]</small>
+  </div>
 </div>
 
 <style>
@@ -41,24 +48,19 @@ nav_order: 5
 .photography-item {
   margin-bottom: 2rem;
 }
-
 .photography-item img {
   transition: transform 0.3s ease;
 }
-
 .photography-item:hover img {
   transform: scale(1.02);
 }
-
 .photo-description {
   text-align: justify;
   line-height: 1.6;
 }
-
 .photo-meta {
   color: var(--global-text-color-light);
 }
-
 @media (max-width: 768px) {
   .photography-item {
     margin-bottom: 1.5rem;
