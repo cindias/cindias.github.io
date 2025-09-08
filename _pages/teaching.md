@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Check out student reviews here
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 My teaching approach emphasizes creating inclusive, supportive learning environments where students can engage with quantitative methods and demographic concepts. Below are selected comments from student evaluations during my time as a teaching assistant at Princeton University:
