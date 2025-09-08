@@ -37,9 +37,9 @@ nav_order: 5
   <div class="col-sm-6 mb-4">
     <img src="/assets/img/alaska.jpg" class="img-fluid rounded" alt="Aurora Borealis dancing over Cold Foot, Alaska">
     <h5 class="mt-3">Aurora and Infant Mortality</h5>
-    <p>I visited the Arctic area called Cold Foot, Alaska and captured this stunning dancing aurora. For Arctic communities that faced devastating infant and child mortality rates—where harsh winters, limited medical care, and difficult births claimed so many young lives—the aurora became something far more sacred than a natural phenomenon. Indigenous peoples believed these shimmering lights were the spirits of children who died at birth, forever playing together in the "highest level of heaven"—a joyous place "where there is no snow or storm, always bright, and there are many easily caught animals."</p>
-    <small class="text-muted"><i class="fas fa-map-marker-alt"></i> Cold Foot, AK • [Date]</small>
-    <small class="text-muted d-block"><i class="fas fa-camera"></i> [Camera details]</small>
+    <p>I visited the Arctic area called Coldfoot, Alaska and captured this stunning dancing aurora. For Arctic communities that faced devastating infant and child mortality rates—where harsh winters, limited medical care, and difficult births claimed so many young lives—the aurora became something far more sacred than a natural phenomenon. Indigenous peoples believed these shimmering lights were the spirits of children who died at birth, forever playing together in the "highest level of heaven"—a joyous place "where there is no snow or storm, always bright, and there are many easily caught animals."</p>
+    <small class="text-muted"><i class="fas fa-map-marker-alt"></i> Coldfoot, AK • Mar 2017</small>
+    <small class="text-muted d-block"><i class="fas fa-camera"></i> Canon EOS 70D, f 85mm</small>
   </div>
 </div>
 
