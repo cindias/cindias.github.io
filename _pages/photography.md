@@ -4,7 +4,7 @@ permalink: /photography/
 title: photography
 description: A collection of my photographs with stories behind each shot.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <div class="row mt-3">
@@ -22,6 +22,16 @@ nav_order: 5
     <h5 class="mt-3">Alpine Settlement Patterns</h5>
     <p>This alpine lake represents an early model of permanent high-elevation settlement where Paleo-Indian populations maintained year-round residence, demonstrating how small hunter-gatherer groups could sustain themselves in extreme environments. Later demographic patterns shifted dramatically - the So-so-goi (Northwestern Shoshone) developed seasonal population flows that brought concentrated groups to alpine lakes like this during autumn fishing periods before dispersing to winter hunting grounds. What I find fascinating is how the physical geography of this lake - its rocky shorelines and clear waters - supported temporary demographic spikes when indigenous groups arrived with "spears, gill nets, and basket traps" during peak resource seasons. Ute population dynamics followed similar patterns, with family units aggregating at "seasonally-specific camps" around such lakes, creating temporary demographic densities that the harsh alpine environment couldn't support year-round. This landscape demonstrates the evolution from static demographic models (permanent Paleo-Indian settlement) to dynamic seasonal population systems where the same geographic space supported radically different population densities and settlement patterns depending on the time of year and the cultural group occupying it.</p>
     <small class="text-muted"><i class="fas fa-map-marker-alt"></i> Rocky Mountains, CO • Aug 2025</small>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6 mb-4">
+    {% assign img_path3 = 'assets/img/tokyo.jpg' %}
+    <img src="{{ img_path3 | relative_url }}" class="img-fluid rounded" alt="Shibuya Crossing in Tokyo">
+    <h5 class="mt-3">Metropolitan Flow Dynamics</h5>
+    <p>Shinjuku station handles 3.34 million people daily, making it the world's busiest train station, and this crosswalk captures a fraction of that massive flow. As part of the Greater Tokyo Area's 37 million residents, these individuals demonstrate how extreme population concentration creates new patterns of human movement. This intersection shows infrastructure engineered to accommodate population densities that challenge conventional city planning models.</p>
+    <small class="text-muted"><i class="fas fa-map-marker-alt"></i> Tokyo, Japan • Jul 2025</small>
   </div>
 </div>
 
