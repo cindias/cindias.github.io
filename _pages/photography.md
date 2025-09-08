@@ -4,7 +4,7 @@ permalink: /photography/
 title: photography
 description: A collection of my photographs with stories behind each shot.
 nav: true
-nav_order: 5
+nav_order: 9
 ---
 
 <div class="row mt-3">
