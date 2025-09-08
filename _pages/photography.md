@@ -11,7 +11,7 @@ nav_order: 5
   <div class="col-sm-6 mb-4">
     <img src="/assets/img/bean.jpg" class="img-fluid rounded" alt="Cloud Gate at the Millennium Park">
     <h5 class="mt-3">Cloud Gate at the Millennium Park</h5>
-    <p>Cloud Gate reflects Chicago's transformation through successive waves of migration: European immigrants, African Americans during the Great Migration, and recent Latino and Asian populations. The towering skyscrapers mirrored in the sculpture demonstrate urban density as a response to demographic growth. This scene captures Chicago's ongoing role as the demographic hub of the Midwest.</p>
+    <p>I lived in the city of Chicago for about two years and Millennium Park was always a go-to spot. This picture I took captures more than just Cloud Gate - it reflects Chicago's incredible demographic journey from a small trading post to America's third-largest city through waves of migration: European immigrants in the late 1800s, African Americans during the Great Migration (1916-1970), and more recent Latino and Asian populations. Looking at the skyscrapers reflected in the sculpture, I can see how the city handled all that population growth through vertical density, built on Chicago's role as a transportation hub that drew people from everywhere. Unlike other Rust Belt cities that emptied out during deindustrialization, Chicago managed to keep its people by reinventing itself - trading factory jobs for service work and creating beautiful spaces like this park.</p>
     <small class="text-muted"><i class="fas fa-map-marker-alt"></i> Chicago, IL • Sep 2025</small>
     <small class="text-muted d-block"><i class="fas fa-camera"></i> Fuji XT-20, f 35mm</small>
   </div>
@@ -30,7 +30,7 @@ nav_order: 5
   <div class="col-sm-6 mb-4">
     <img src="/assets/img/tokyo.jpg" class="img-fluid rounded" alt="Shibuya Crossing in Tokyo">
     <h5 class="mt-3">Metropolitan Flow Dynamics</h5>
-    <p>Shinjuku station handles 3.34 million people daily, making it the world's busiest train station, and this crosswalk captures a fraction of that massive flow. As part of the Greater Tokyo Area's 37 million residents, these individuals demonstrate how extreme population concentration creates new patterns of human movement. This intersection shows infrastructure engineered to accommodate population densities that challenge conventional city planning models.</p>
+    <p>This photo was taken when I was traveling in Tokyo, Japan, and you feel something different when you're surrounded by a massive crowd all trying to cross the road together. Shinjuku station handles 3.34 million people daily, making it the world's busiest train station, and this crosswalk captures just a fraction of that flow. Being part of this movement with Greater Tokyo's 37 million residents shows how extreme population concentration creates entirely new patterns of human behavior. Standing in this intersection, I realized I was experiencing infrastructure engineered to handle population densities that shouldn't work according to normal city planning, yet somehow does.</p>
     <small class="text-muted"><i class="fas fa-map-marker-alt"></i> Tokyo, Japan • Jul 2025</small>
     <small class="text-muted d-block"><i class="fas fa-camera"></i> iPhone 13</small>
   </div>
