@@ -2,7 +2,7 @@
 layout: page
 permalink: /photography/
 title: photography
-description: A collection of my photographs with stories behind each shot.
+description: A collection of my photographs with some demographic perspectives I carry while traveling.
 nav: true
 nav_order: 5
 ---
@@ -30,7 +30,7 @@ nav_order: 5
   <div class="col-sm-6 mb-4">
     <img src="/assets/img/tokyo.jpg" class="img-fluid rounded" alt="Shibuya Crossing in Tokyo">
     <h5 class="mt-3">Metropolitan Flow Dynamics</h5>
-    <p>This photo was taken when I was traveling in Tokyo, Japan, and you feel something different when you're surrounded by a massive crowd all trying to cross the road together. Shinjuku station handles 3.34 million people daily, making it the world's busiest train station, and this crosswalk captures just a fraction of that flow. Being part of this movement with Greater Tokyo's 37 million residents shows how extreme population concentration creates entirely new patterns of human behavior. Standing in this intersection, I realized I was experiencing infrastructure engineered to handle population densities that shouldn't work according to normal city planning, yet somehow does.</p>
+    <p>This photo was taken when I was traveling in Tokyo, Japan, and you feel something different when you're surrounded by a massive crowd all trying to cross the road together. Shinjuku station handles 3.34 million people daily, making it the world's busiest train station, and this crosswalk captures just a fraction of that flow. Being part of this movement with Greater Tokyo's 37 million residents shows how extreme population concentration creates entirely new patterns of human behavior.</p>
     <small class="text-muted"><i class="fas fa-map-marker-alt"></i> Tokyo, Japan • Jul 2025</small>
     <small class="text-muted d-block"><i class="fas fa-camera"></i> iPhone 13</small>
   </div>
