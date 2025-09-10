@@ -3,7 +3,7 @@ layout: page
 permalink: /photography/
 title: photography
 description: A collection of my photographs with some demographic perspectives I carry while traveling.
-nav: true
+nav: false
 nav_order: 5
 ---
 <div class="row mt-3">
